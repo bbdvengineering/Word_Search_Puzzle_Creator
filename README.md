@@ -34,6 +34,9 @@ If you want to host this online so anyone can visit your link:
 3. Under **Build and deployment** -> **Branch**, select `main` (or `master`) and click **Save**.
 4. GitHub will give you a live website link in 1–2 minutes!
 
+### Option 3: Access this utility directly from below link:
+https://bbdvengineering.github.io/Word_Search_Puzzle_Creator/
+
 ---
 
 ## 🖨️ Printing Tips for Best Results
